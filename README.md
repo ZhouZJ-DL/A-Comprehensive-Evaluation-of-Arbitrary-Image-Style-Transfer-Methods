@@ -6,6 +6,7 @@ This research introduces a comprehensive assessment system for Arbitrary Image S
 ## 🏁 ToDo
 🗹 Release the user study website.<br>
 🗹 Release the standard dataset with annotatio.<br>
+☐ Release the code for extracting the ADE20K dataset to obtain image segmentation information.<br>
 ☐ Release the explanation and starter code for the standard dataset.<br>
 ☐ Release the evaluation code for AST methods.<br>
 
