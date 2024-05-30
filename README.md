@@ -4,10 +4,10 @@
 This research introduces a comprehensive assessment system for Arbitrary Image Style Transfer (AST) methods. Recognizing the limitations of existing evaluation approaches, our framework combines subjective user studies with objective metrics to provide a multi-grained understanding of AST performance.
 
 ## 🏁 ToDo
-🗹 Release the user study website.
-🗹 Release the standard dataset with annotatio.
-☐ Release the explanation and starter code for the standard dataset.
-☐ Release the evaluation code for AST methods.
+🗹 Release the user study website.<br>
+🗹 Release the standard dataset with annotatio.<br>
+☐ Release the explanation and starter code for the standard dataset.<br>
+☐ Release the evaluation code for AST methods.<br>
 
 ## [📲Subjective Study](#📲Subjective-Study)
 For our subjective study, we have created an interactive website where participants can engage. Welcome to our platform, designed to host a variety of user studies. We invite you to explore and participate at your convenience, and we hope you have a delightful experience! 🐶
