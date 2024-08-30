@@ -49,6 +49,10 @@ For the objective study, we have constructed a standard dataset including the fo
 - Style images: Sourced from WikiArt.
 - Stylized Images: We generated the stylized images using 10 distinct AST methods.
 
+You are welcome to use our collected dataset:
+*[OneDrive](https://1drv.ms/u/c/de3ad968021b913b/ERwGC0OlZsZCn4Ur82kwiXABrcXac_8zSB1F1q_9IAkCKw?e=Ezp3XO)    [iCloud Drive](https://www.icloud.com/iclouddrive/0662WC1QtpRCa0g0jZDa4ItNw#custom%5Fdataset)* 🐳
+
+
 <div align="center">
 
 | AST method | type | Repository| Our Implement | Excute File |
@@ -65,6 +69,3 @@ For the objective study, we have constructed a standard dataset including the fo
 | WCT | CNN-based | *[official](https://github.com/Yijunmaverick/UniversalStyleTransfer)* <br> *[pytorch](https://github.com/sunshineatnoon/PytorchWCT)* |  | WCT.py |
 
 </div>
-
-Our collected dataset:
-*[OneDrive](https://1drv.ms/u/c/de3ad968021b913b/ERwGC0OlZsZCn4Ur82kwiXABrcXac_8zSB1F1q_9IAkCKw?e=Ezp3XO)    [iCloud Drive](https://www.icloud.com/iclouddrive/0662WC1QtpRCa0g0jZDa4ItNw#custom%5Fdataset)* 🐳
