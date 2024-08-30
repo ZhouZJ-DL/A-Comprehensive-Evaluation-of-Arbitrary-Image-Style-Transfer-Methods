@@ -51,18 +51,18 @@ For the objective study, we have constructed a standard dataset including the fo
 
 <div align="center">
 
-| AST method | type | Official Repository|
-| :--------: | :--: | :-------: |
-| ArtFusion | Diffusion-based |
-| StyTr2 | Transformer-based |
-| ArtFlow | Flow model |
-| UCAST | CNN-based, contrast learning |
-| MAST | CNN-based, manifold-based |
-| SANet | CNN-based, attention-based |
-| AdaIN | CNN-based |
-| LST | CNN-based |
-| NST | CNN-based |
-| WCT | CNN-based |
+| AST method | type | Repository| Our Implement | Excute File |
+| :--------: | :--: | :----------------: | :-----------: | :---------: |
+| ArtFusion | Diffusion-based | *[official](https://github.com/ChenDarYen/ArtFusion)* | | style_transfer.ipynb | 
+| StyTr2 | Transformer-based | *[official](https://github.com/diyiiyiii/StyTR-2)* |  | test.py |
+| ArtFlow | Flow model | *[official](https://github.com/pkuanjie/ArtFlow)* |  | test.py |
+| UCAST | CNN-based<br> contrast learning | *[official](https://github.com/zyxelsa/cast_pytorch)* |   | test.py |
+| MAST | CNN-based<br> manifold-based | *[official](https://github.com/njuhuojing/mast)* |   | test_artistic.py |
+| SANet | CNN-based<br> attention-based | *[pytorch](https://github.com/GlebSBrykin/SANET)* |  | Eval1.py |
+| AdaIN | CNN-based | *[official](https://github.com/xunhuang1995/AdaIN-style)*<br> *[pytorch](https://github.com/naoto0804/pytorch-AdaIN)* | | test.py |
+| LST | CNN-based | *[pytorch](https://github.com/sunshineatnoon/LinearStyleTransfer)* |  | TestArtistic.py |
+| NST | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* |  | neural_style.py |
+| WCT | CNN-based | *[official](https://github.com/Yijunmaverick/UniversalStyleTransfer)* <br> *[pytorch](https://github.com/sunshineatnoon/PytorchWCT)* |  | WCT.py |
 
 </div>
 
