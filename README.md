@@ -1,8 +1,9 @@
 # A Comprehensive Evaluation of Arbitrary Image Style Transfer Methods
 
 
-<img src=https://github.com/ZhouZJ-DL/A-Comprehensive-Evaluation-of-Arbitrary-Image-Style-Transfer-Methods/blob/main/imgs/system.drawio2.png width=60% />
-
+<div align=center>
+<img src=https://github.com/ZhouZJ-DL/A-Comprehensive-Evaluation-of-Arbitrary-Image-Style-Transfer-Methods/blob/main/imgs/system.drawio2.png width=80% />
+</div>
 
 ## 🚀 Overview
 This research introduces a comprehensive assessment system for Arbitrary Image Style Transfer (AST) methods. Recognizing the limitations of existing evaluation approaches, our framework combines subjective user studies with objective metrics to provide a multi-grained understanding of AST performance. We collect a fine-grained dataset considering a range of image contexts such as different scenes, object complexities, and rich parsing information from multiple sources. Objective and subjective studies are conducted using the collected dataset.
