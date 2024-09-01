@@ -55,7 +55,7 @@ You are welcome to use our collected dataset:
 
 <div align="center">
 
-| AST method | type | Repository| Our Implement | Excute File |
+| AST method | type | Repository| Our Implement | Execute File |
 | :--------: | :--: | :----------------: | :-----------: | :---------: |
 | ArtFusion | Diffusion-based | *[official](https://github.com/ChenDarYen/ArtFusion)* | | style_transfer.ipynb | 
 | StyTr2 | Transformer-based | *[official](https://github.com/diyiiyiii/StyTR-2)* |  | test.py |
