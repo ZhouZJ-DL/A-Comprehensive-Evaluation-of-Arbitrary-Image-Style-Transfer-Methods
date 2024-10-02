@@ -53,12 +53,18 @@ You are welcome to use our collected dataset:
 *[OneDrive](https://1drv.ms/u/c/de3ad968021b913b/ERwGC0OlZsZCn4Ur82kwiXABrcXac_8zSB1F1q_9IAkCKw?e=Ezp3XO)    [iCloud Drive](https://www.icloud.com/iclouddrive/0662WC1QtpRCa0g0jZDa4ItNw#custom%5Fdataset)* 🐳
 
 
+## 💿 AST methods
+We have collected 10 different AST methods based on different model architectures. 
+
+The implementation of most of these AST methods is based on their official repositories, while some are sourced from community contributions. Where necessary, we have adjusted the implementations to enable seamless execution of style transfer tasks, particularly for two folders containing a large number of content and style images. It is important to note that the content and style images used in each experiment are identical.
+
+You can find the modified implementations of these AST methods within the project folder. Below, we provide a list of each method's execution file, along with the repository it is based on. We would like to express our gratitude to all the contributors involved in developing these methods.
 <div align="center">
 
-| AST method | type | Repository| Our Implement | Execute File |
+| AST method | type | Based Repository| Our Implement | Excute File |
 | :--------: | :--: | :----------------: | :-----------: | :---------: |
 | ArtFusion | Diffusion-based | *[official](https://github.com/ChenDarYen/ArtFusion)* | | style_transfer.ipynb | 
-| StyTr2 | Transformer-based | *[official](https://github.com/diyiiyiii/StyTR-2)* |  | test.py |
+| StyTr2 | Transformer-based | *[official](https://github.com/diyiiyiii/StyTR-2)* | AST/StyTr2/ | test.py |
 | ArtFlow | Flow model | *[official](https://github.com/pkuanjie/ArtFlow)* |  | test.py |
 | UCAST | CNN-based<br> contrast learning | *[official](https://github.com/zyxelsa/cast_pytorch)* |   | test.py |
 | MAST | CNN-based<br> manifold-based | *[official](https://github.com/njuhuojing/mast)* |   | test_artistic.py |
@@ -69,3 +75,8 @@ You are welcome to use our collected dataset:
 | WCT | CNN-based | *[official](https://github.com/Yijunmaverick/UniversalStyleTransfer)* <br> *[pytorch](https://github.com/sunshineatnoon/PytorchWCT)* |  | WCT.py |
 
 </div>
+
+
+
+
+## 🎮 Usage
