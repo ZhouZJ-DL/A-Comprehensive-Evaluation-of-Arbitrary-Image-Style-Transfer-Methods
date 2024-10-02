@@ -63,16 +63,16 @@ You can find the modified implementations of these AST methods within the projec
 
 | AST method | type | Based Repository| Our Implement | Excute File |
 | :--------: | :--: | :----------------: | :-----------: | :---------: |
-| ArtFusion | Diffusion-based | *[official](https://github.com/ChenDarYen/ArtFusion)* | | style_transfer.ipynb | 
+| ArtFusion | Diffusion-based | *[official](https://github.com/ChenDarYen/ArtFusion)* | AST/ArtFusion/| style_transfer.ipynb | 
 | StyTr2 | Transformer-based | *[official](https://github.com/diyiiyiii/StyTR-2)* | AST/StyTr2/ | test.py |
-| ArtFlow | Flow model | *[official](https://github.com/pkuanjie/ArtFlow)* |  | test.py |
-| UCAST | CNN-based<br> contrast learning | *[official](https://github.com/zyxelsa/cast_pytorch)* |   | test.py |
-| MAST | CNN-based<br> manifold-based | *[official](https://github.com/njuhuojing/mast)* |   | test_artistic.py |
-| SANet | CNN-based<br> attention-based | *[pytorch](https://github.com/GlebSBrykin/SANET)* |  | Eval1.py |
-| AdaIN | CNN-based | *[official](https://github.com/xunhuang1995/AdaIN-style)*<br> *[pytorch](https://github.com/naoto0804/pytorch-AdaIN)* | | test.py |
-| LST | CNN-based | *[pytorch](https://github.com/sunshineatnoon/LinearStyleTransfer)* |  | TestArtistic.py |
-| NST | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* |  | neural_style.py |
-| WCT | CNN-based | *[official](https://github.com/Yijunmaverick/UniversalStyleTransfer)* <br> *[pytorch](https://github.com/sunshineatnoon/PytorchWCT)* |  | WCT.py |
+| ArtFlow | Flow model | *[official](https://github.com/pkuanjie/ArtFlow)* | AST/ArtFlow/ | test.py |
+| UCAST | CNN-based<br> contrast learning | *[official](https://github.com/zyxelsa/cast_pytorch)* | AST/UCAST/ | test.py |
+| MAST | CNN-based<br> manifold-based | *[official](https://github.com/njuhuojing/mast)* | AST/MAST/  | test_artistic.py |
+| SANet | CNN-based<br> attention-based | *[pytorch](https://github.com/GlebSBrykin/SANET)* | AST/SANet/ | Eval1.py |
+| AdaIN | CNN-based | *[official](https://github.com/xunhuang1995/AdaIN-style)*<br> *[pytorch](https://github.com/naoto0804/pytorch-AdaIN)* | AST/AdaIN/ | test.py |
+| LST | CNN-based | *[pytorch](https://github.com/sunshineatnoon/LinearStyleTransfer)* | AST/LST/ | TestArtistic.py |
+| NST | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* | AST/NST/  | neural_style.py |
+| WCT | CNN-based | *[official](https://github.com/Yijunmaverick/UniversalStyleTransfer)* <br> *[pytorch](https://github.com/sunshineatnoon/PytorchWCT)* | AST/WCT/  | WCT.py |
 
 </div>
 
