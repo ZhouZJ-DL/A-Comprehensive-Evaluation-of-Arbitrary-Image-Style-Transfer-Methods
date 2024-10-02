@@ -1,0 +1,13 @@
+----------------- Options ---------------
+                batchSize: 1                             
+              contentPath: /home/hfle/new_website_source/Line_Manifold/content
+                     cuda: True                          
+              decoder_dir: models/dec_r41.pth            
+                 fineSize: 512                           
+                    layer: r41                           
+                 loadSize: 512                           
+               matrixPath: models/r41.pth                
+                     outf: Artistic/                     
+                stylePath: /home/hfle/new_website_source/Line_Manifold/style
+                  vgg_dir: models/vgg_r41.pth            
+----------------- End -------------------
