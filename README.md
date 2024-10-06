@@ -84,7 +84,7 @@ You can find the modified implementations of these AST methods within the folder
 | SSIM | pixel-based | *[pytorch](https://github.com/jsh-me/psnr-ssim-tool)* | Metrics/ | .py |
 | Content Loss | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* | Metrics/ | neural_style.py |
 | GRAM Loss | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* | Metrics/ | neural_style.py |
-| LPIPS | CNN-based | *[official](https://github.com/richzhang/PerceptualSimilarity)* | Metrics/ | .py |
+| LPIPS | CNN-based | *[official](https://github.com/richzhang/PerceptualSimilarity)* | Metrics/ | lpips_2dirs.py |
 | ArtFID | CNN-based | *[official](https://github.com/matthias-wright/art-fid)* | Metrics/ | .py |
 
 
