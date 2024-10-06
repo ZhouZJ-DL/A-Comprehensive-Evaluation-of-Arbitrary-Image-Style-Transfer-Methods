@@ -81,11 +81,11 @@ You can find the modified implementations of these AST methods within the folder
 ## 📊 AST Assessment Metrics
 | Metrics | type | Based Repository| Our Implement | Excute File |
 | :--------: | :--: | :----------------: | :-----------: | :---------: |
-| SSIM | pixel-based | *[pytorch](https://github.com/jsh-me/psnr-ssim-tool)* | Metrics/ | .py |
-| Content Loss | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* | Metrics/ | neural_style.py |
-| GRAM Loss | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* | Metrics/ | neural_style.py |
+| SSIM | pixel-based | *[pytorch](https://github.com/jsh-me/psnr-ssim-tool)* | Metrics/ | ssim.py |
+| Content Loss | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* | AST/NST/ | neural_style.py |
+| GRAM Loss | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* | AST/NST/ | neural_style.py |
 | LPIPS | CNN-based | *[official](https://github.com/richzhang/PerceptualSimilarity)* | Metrics/ | lpips_2dirs.py |
-| ArtFID | CNN-based | *[official](https://github.com/matthias-wright/art-fid)* | Metrics/ | .py |
+| ArtFID | CNN-based | *[official](https://github.com/matthias-wright/art-fid)* | Metrics/ArtFID/art-fid | `__main__.py` |
 
 
 ## 🎮 Files Usages
