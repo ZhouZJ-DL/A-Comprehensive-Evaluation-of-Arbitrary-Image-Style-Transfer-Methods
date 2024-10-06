@@ -53,7 +53,7 @@ You are welcome to use our collected dataset:
 *[OneDrive](https://1drv.ms/u/c/de3ad968021b913b/ERwGC0OlZsZCn4Ur82kwiXABrcXac_8zSB1F1q_9IAkCKw?e=Ezp3XO)    [iCloud Drive](https://www.icloud.com/iclouddrive/0662WC1QtpRCa0g0jZDa4ItNw#custom%5Fdataset)* 🐳
 
 
-## 💿 AST methods
+## 📚 AST methods
 We have collected 10 different AST methods based on different model architectures. 
 
 The implementation of most of these AST methods is based on their official repositories, while some are sourced from community contributions. Where necessary, we have adjusted the implementations to enable seamless execution of style transfer tasks, particularly for two folders containing a large number of content and style images. It is important to note that the content and style images used in each experiment are identical.
@@ -78,5 +78,14 @@ You can find the modified implementations of these AST methods within the folder
 
 
 
+## 📊 AST Assessment Metrics
+| Metrics | type | Based Repository| Our Implement | Excute File |
+| :--------: | :--: | :----------------: | :-----------: | :---------: |
+| SSIM | pixel-based | *[pytorch](https://github.com/jsh-me/psnr-ssim-tool)* | Metrics/ | .py |
+| Content Loss | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* | Metrics/ | neural_style.py |
+| GRAM Loss | CNN-based | *[pytorch](https://github.com/ProGamerGov/neural-style-pt)* | Metrics/ | neural_style.py |
+| LPIPS | CNN-based | *[official](https://github.com/richzhang/PerceptualSimilarity)* | Metrics/ | .py |
+| ArtFID | CNN-based | *[official](https://github.com/matthias-wright/art-fid)* | Metrics/ | .py |
 
-## 🎮 Usage
+
+## 🎮 Files Usages
