@@ -22,7 +22,7 @@ This research introduces a comprehensive assessment system for Arbitrary Image S
 ## 📲 Subjective Study
 For our subjective study, we have created an interactive website where participants can engage. Welcome to our platform, designed to host a variety of user studies. We invite you to explore and participate at your convenience, and we hope you have a delightful experience! 🐶
 
-*[Click here for user study](http://ivc.ia.ac.cn/AST_EVAL)* 😺
+*[Click here for user study](http://20.2.34.129/)* 😺
 
 
 
